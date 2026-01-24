@@ -1,7 +1,7 @@
 # EL's HUB
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ianoci/EL-s-HUB/refs/heads/main/EL's%20HUB.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ianoci/EL-s-HUB/refs/heads/main/Source"))()
 ```
 
 EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
