@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/ianoci/EL-s-HUB/refs/heads/main/Script.txt)
+
 # EL's HUB
 
 EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
