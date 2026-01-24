@@ -1,6 +1,6 @@
 # EL's HUB
 
-This script is free to use and distribute for anyone. It is compatible with both PC and mobile platforms.  
+EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
 
 ## Features
 - Fully functional on PC and mobile devices
