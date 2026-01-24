@@ -5,7 +5,7 @@ EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
 ## Features
 - Fully functional on PC and mobile devices
 - Lightweight and optimized for performance
-- Works with script executors for Roblox
+- Works with any executor, as it utilizes the [Rayfield Library](https://docs.sirius.menu/rayfield)
 
 ## Compatibility
 [![PC](WIN.png)](https://example.com) [![Mobile](AND.png)](https://example.com)
