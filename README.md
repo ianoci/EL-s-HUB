@@ -1,4 +1,4 @@
-# Roblox Script
+# EL's HUB
 
 This script is free to use and distribute for anyone. It is compatible with both PC and mobile platforms.  
 
