@@ -1,5 +1,3 @@
-![PC](WIN.png) ![Mobile](AND.png)
-
 # Roblox Script
 
 This script is free to use and distribute for anyone. It is compatible with both PC and mobile platforms.  
@@ -8,6 +6,9 @@ This script is free to use and distribute for anyone. It is compatible with both
 - Fully functional on PC and mobile devices
 - Lightweight and optimized for performance
 - Works with script executors for Roblox
+
+## Compatibility
+[![PC](WIN.png)](https://example.com) [![Mobile](AND.png)](https://example.com)
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
