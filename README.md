@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-green)]([![Download](https://img.shields.io/badge/Download-green)](https://github.com/ianoci/EL-s-HUB/raw/main/EL's%20HUB.txt))
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/ianoci/EL-s-HUB/raw/main/EL's%20HUB.txt)
 
 # EL's HUB
 
