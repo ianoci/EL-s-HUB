@@ -3,6 +3,14 @@
 EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
 
 ## Features
+- TP: Safe Zone  
+- TP: End Zone  
+- TP: Pickaxe Shop  
+- TP: Upgrade Shop  
+- Select Zones and Teleport  
+- Sell All Brainrots  
+- Disable Waves  
+- Shiftlock (Mobile)
 - Fully functional on PC and mobile devices
 - Lightweight and optimized for performance
 - Works with any executor, as it utilizes the [Rayfield Library](https://docs.sirius.menu/rayfield)
