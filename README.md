@@ -3,9 +3,8 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ianoci/EL-s-HUB/refs/heads/main/Source"))()
 ```
-[![Mobile](noFilter.webp)](https://example.com)
-
 EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks
+[![Mobile](noFilter.webp)](https://example.com)
 
 ## Features
 - TP: Safe Zone  
