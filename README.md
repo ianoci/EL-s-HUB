@@ -23,12 +23,6 @@ EL's HUB is a script for the Roblox game 'Escape for Tsunami Lucky Blocks'
 ## Compatibility
 [![PC](WIN.png)](https://example.com) [![Mobile](AND.png)](https://example.com)
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-## Notes
-Please respect the original author by giving proper credit when using or sharing it.
-
 ## Footage
 
 [![Mobile](py47vTgZ.gif)](https://example.com)
